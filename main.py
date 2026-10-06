@@ -14,7 +14,7 @@ API_ID = 39935562
 API_HASH = "0dce340be473504b335286e7cb8ce93f"
 
 # Render Environment Variable theke SESSION_STRING nebe
-SESSION_STRING = os.getenv("SESSION_STRING", "")
+SESSION_STRING = os.getenv("SESSION_STRING", "1BVtsOIUBu1p95DBVItZu_9cKP7_1aJJl9f-sDqeHr4tpVwV3H1XsaQL8U9vKbH_fhf6ov-NBS9MfMykioaeD2vF8ExH7pOkqQ6NQ9klIWi1p4BzCj8Og5VTKUMW6s2tPhjscwH_wSw3zdg6HqEagS7xPihenm71vj-lWo85xGY_wx6vYg8fjoNF_iPO3cWrHdZOMGMZXW6MPPvk4bRF8HodXC8guvQOhFyLmFUvI2irIvpgZCDBRK-oMLMtXKeQxNdSKAii_0ksWA1turWSR6DJLaLT-mslLtQMZFZWolMhkY4zw1AbSnXXGsTUwMW_2w8EEi2MMVMMaF4dIvbWiFnO9npEtj0k=")
 
 FLEZEN_BOT = "flezennbot"
 WEBAPP_URL = "https://flezen-downloader.pages.dev/"
